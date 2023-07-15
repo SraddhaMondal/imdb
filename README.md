@@ -1,3 +1,6 @@
+![Screenshot (632)](https://github.com/SraddhaMondal/imdb/assets/83489765/c94811ad-9c11-4c53-83f2-5c39e6d9babb)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
